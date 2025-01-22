@@ -4,6 +4,7 @@ All things learned around sql for interviews and up-skillling
 
 ### Top Links
 - Learning
+  - https://datalemur.com/sql-tutorial/sql-string-text 
   - https://www.codecademy.com/learn/learn-sql
   - https://www.designgurus.io/course/grokking-sql-for-tech-interviews
 - Practising
